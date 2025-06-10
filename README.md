@@ -1,6 +1,6 @@
 # Welcome to the Semantic HTML Course
 
-##Terms
+## Terms
 
 - Header
 - Nav
